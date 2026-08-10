@@ -6,7 +6,12 @@ Every phase of the interview from initial structure to data analysis, math, and 
 ![0808-1](https://hackmd.io/_uploads/ryfcJhNUMg.png)
 
 ---
+## No Brainer: To understand why a Distribution Company's Revenue decreased, look into 3 Key Factors:
+## 1.A drop in  Sales Revenue  2.A rise in Direct Service Cost 3. Higher operation Expense 
 
+## Actions 
+- Must indentify which belongs to Cost of Service / Expense
+- Draw out the Product Framework to idenfity all costs
 ## Checklists
 ✅ Check Financial Drivers:
 ✅ Evaluate Customer Dynamics
@@ -20,7 +25,7 @@ Every phase of the interview from initial structure to data analysis, math, and 
 ✅ Step 2: Determine New Volume
 ✅ Step 3: Calculate Discounted Price
 ✅ Step 4: Map the Revenue Breakdown
-✅ Step 5: Compute Incremental Revenue$$\text{Incremental Revenue}=\$30,675,000-\$30,000,000=+\$675,000$$
+✅ Step 5: Compute Incremental Revenue
 ### -- Final Recommendation
 ✅ Lead with a definitive recommendation:
 ✅ Propose Immediate Next Steps
