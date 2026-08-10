@@ -10,7 +10,7 @@ Every phase of the interview from initial structure to data analysis, math, and 
 To understand why a Distribution Company's Revenue decreased, look into 3 Key Factors:
 - 1.A drop in  Sales Revenue
 - 2.A rise in Direct Service Cost
-- 3. Higher operation Expense
+- 3.Higher operation Expense
 
 ## Actions 
 - Must indentify which belongs to Cost of Service / Expense
